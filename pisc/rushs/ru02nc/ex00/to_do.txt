@@ -1,0 +1,7 @@
+1) gerer les erreurs de parsing du dico : faire en sorte que l'execution s'arrete des que rencontre la premiere erreur
+
+2) faire une liste des erreur possible et tout tester 
+
+3) verifier tous les malloc
+
+4) faire un code qui fonctionne  
